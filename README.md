@@ -39,3 +39,4 @@ Ensure you replace all placeholders value to actual values.
 # Trigger backend CI
 - Release workflow proof
 - Release proof run
+- Release workflow proof
